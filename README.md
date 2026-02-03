@@ -20,7 +20,7 @@ If you find any bugs or have a feature request, please open an Issue.
 
 You can donate to the official **espanso** project [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHNLR5DRS267E&source=url).
 
-You can donate to continue development on this **espansoGUI** app on [PayPal](https://www.paypal.com/donate/?hosted_button_id=TLYY8YZ424VRL) or [Ko-fi](https://ko-fi.com/unobserved).
+You can donate to continue development on this **espansoGUI** app via <a href="https://liberapay.com/rickykresslein"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 ## Gratitude
 
